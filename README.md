@@ -61,11 +61,6 @@ Python-based application for food ordering and database management.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satwik88&show_icons=true&theme=tokyonight)
----
-
 ## 🌐 Connect With Me
 
 - LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/satwik-raj-35b6a9343/)
