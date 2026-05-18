@@ -1,6 +1,6 @@
-CSE Student | Python Developer | IoT Enthusiast | Full Stack Development Learner
+CSE Student | Python Developer | IoT & Web Development Enthusiast
 
-- Strong foundation in Python, programming fundamentals, and problem solving
-- Building IoT projects using NodeMCU, Arduino, and sensors
-- Exploring Full Stack Web Development and Database Management
-- Interested in Software Development, AI, and Embedded Systems
+- Skilled in Python, MySQL, and programming fundamentals
+- Building real-world IoT projects using NodeMCU and Arduino
+- Learning Full Stack Development and modern web technologies
+- Passionate about software engineering, automation, and AI
