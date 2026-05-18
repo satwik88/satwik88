@@ -1,9 +1,6 @@
-- 👋 Hi, I’m satwik 
-- 👀 I’m interested in exploring every new angle of my work
-- 📫 How to reach me email @ satwikraj707@gmail.com
-- ⚡ Fun fact: always learn from your mistakes
+CSE Student | Python Developer | IoT Enthusiast | Full Stack Development Learner
 
-<!---
-satwik88/satwik88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Strong foundation in Python, programming fundamentals, and problem solving
+- Building IoT projects using NodeMCU, Arduino, and sensors
+- Exploring Full Stack Web Development and Database Management
+- Interested in Software Development, AI, and Embedded Systems
