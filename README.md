@@ -69,5 +69,5 @@ Python-based application for food ordering and database management.
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com
+- LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/satwik-raj-35b6a9343/)
 - GitHub: https://github.com/satwik88
