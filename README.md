@@ -31,9 +31,6 @@ CLI-based food ordering app in Python with full MySQL persistence. Clean layered
 ### 📊 [Subscription Analytics System](https://github.com/satwik88/subscription-analytics-system)
 Pure-SQL MySQL project modeling an OTT streaming platform. Six-table schema with analytics queries covering DAU, churn rate, watch patterns, and user segmentation. Built with Samridh Raj and Surya Gautam.
 
-### 🌿 Smart Plant Monitoring & Auto-Watering System
-IoT project using NodeMCU and sensors to monitor soil moisture and trigger automatic watering. Combines embedded hardware with real-time data feedback.
-
 ### 🐍 [Snake Game](https://github.com/satwik88/Snake)
 Classic Snake built with Python and Pygame — smooth controls, score tracking, and a clean game loop.
 
