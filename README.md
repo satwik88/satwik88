@@ -1,67 +1,48 @@
-# Hi there, I'm Satwik Raj 👋
+# Hey, I'm Satwik Raj 👋
 
-🎓 CSE Student  
-💻 Python Developer | IoT Enthusiast | Web Development Learner  
-🚀 Passionate about building real-world projects
+CS undergrad who likes building things that actually work — CLI tools, databases, IoT systems, and the occasional snake game.
 
 ---
 
-## 🚀 About Me
+## 🔧 What I Work With
 
-- 🌱 Learning Full Stack Development and IoT
-- 🔧 Working on Smart Plant Monitoring System
-- 💡 Interested in AI, Software Development, and Embedded Systems
-- 🎯 Exploring modern web technologies and automation
+**Languages**
+`Python` `Java` `C` `JavaScript`
 
----
+**Databases**
+`MySQL` `MongoDB`
 
-## 🛠️ Skills
+**Web**
+`HTML` `CSS` `Node.js`
 
-### Languages
-- Python
-- Java
-- C
-- JavaScript
+**IoT & Hardware**
+`Arduino` `NodeMCU` `Sensors & Automation`
 
-### Web Development
-- HTML
-- CSS
-- Node.js
-
-### Database
-- MySQL
-- MongoDB
-
-### IoT
-- Arduino
-- NodeMCU
-- Sensors & Automation
+**Tools**
+`Git` `VS Code` `WAMP` `phpMyAdmin`
 
 ---
 
-## 📌 Projects
+## 📂 Projects
 
-### 🌿 Smart Plant Monitoring and Auto-Watering System
-IoT-based project using NodeMCU and sensors for automatic watering.
+### 🍔 [Food Ordering System](https://github.com/satwik88/Food-Ordering-System)
+CLI-based food ordering app in Python with full MySQL persistence. Clean layered OOP architecture — models, repositories, services — with cart management, transactional order placement, and a kitchen workflow.
 
-### 🍔 Online Food Ordering System
-Python-based application for food ordering and database management.
+### 📊 [Subscription Analytics System](https://github.com/satwik88/subscription-analytics-system)
+Pure-SQL MySQL project modeling an OTT streaming platform. Six-table schema with analytics queries covering DAU, churn rate, watch patterns, and user segmentation. Built with Samridh Raj and Surya Gautam.
 
----
+### 🌿 Smart Plant Monitoring & Auto-Watering System
+IoT project using NodeMCU and sensors to monitor soil moisture and trigger automatic watering. Combines embedded hardware with real-time data feedback.
 
-## ⚡ Tech Stack
+### 🐍 [Snake Game](https://github.com/satwik88/Snake)
+Classic Snake built with Python and Pygame — smooth controls, score tracking, and a clean game loop.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-![NodeMCU](https://img.shields.io/badge/NodeMCU-IoT-blue?style=for-the-badge)
+### 🧪 [SR Dev Lab](https://github.com/satwik88/SR_DEV_LAB)
+Personal dev portfolio and interactive sandbox. Vanilla JS, glassmorphism UI, and a reactive Three.js 3D background.
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect
 
-- LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/satwik-raj-35b6a9343/)
-- GitHub: https://github.com/satwik88
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satwik-raj-35b6a9343/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satwik88)
