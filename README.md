@@ -28,9 +28,6 @@ CS undergrad who likes building things that actually work — CLI tools, databas
 ### 🍔 [Food Ordering System](https://github.com/satwik88/Food-Ordering-System)
 CLI-based food ordering app in Python with full MySQL persistence. Clean layered OOP architecture — models, repositories, services — with cart management, transactional order placement, and a kitchen workflow.
 
-### 📊 [Subscription Analytics System](https://github.com/satwik88/subscription-analytics-system)
-Pure-SQL MySQL project modeling an OTT streaming platform. Six-table schema with analytics queries covering DAU, churn rate, watch patterns, and user segmentation. Built with Samridh Raj and Surya Gautam.
-
 ### 🐍 [Snake Game](https://github.com/satwik88/Snake)
 Classic Snake built with Python and Pygame — smooth controls, score tracking, and a clean game loop.
 
