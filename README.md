@@ -1,97 +1,244 @@
-# Hey, I'm Satwik Raj 👋
+<div align="center">
 
-Computer Science undergraduate passionate about software development, automation, databases, and modern web technologies. I enjoy building practical applications that solve real-world problems and continuously learning new technologies.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=160&section=header"/>
 
-🌐 **Portfolio:** https://satwik23.vercel.app
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Satwik+Raj;Computer+Science+Student;Python+Developer;Web+Developer;IoT+Enthusiast;Building+Projects+That+Actually+Work" />
+
+<br>
+
+<a href="https://satwik23.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/satwik88">
+<img src="https://img.shields.io/badge/GitHub-satwik88-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/satwik-raj-35b6a9343/">
+<img src="https://img.shields.io/badge/LinkedIn-Satwik_Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:satwikraj707@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=satwik88&style=for-the-badge&color=2563EB"/>
+<img src="https://img.shields.io/github/followers/satwik88?style=for-the-badge&color=2563EB"/>
+<img src="https://img.shields.io/github/stars/satwik88?style=for-the-badge&color=06B6D4"/>
+
+</div>
 
 ---
 
-## 🚀 Currently
+# 👨‍💻 About Me
 
-* Learning React and modern frontend development
-* Exploring AI, automation, and intelligent systems
-* Building web applications and database-driven projects
-* Improving problem-solving and software engineering skills
-* Expanding my knowledge of IoT and embedded systems
+I'm **Satwik Raj**, a Computer Science & Engineering student passionate about building software that solves real problems.
+
+My interests span across:
+
+- 🌐 Web Development
+- 🐍 Python Development
+- 🤖 Automation
+- 📡 IoT Systems
+- 🗄️ Databases
+- 🎮 Interactive Applications
+
+I enjoy building projects from scratch and learning how software and hardware work together.
 
 ---
 
-## 🔧 Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
-`Python` `Java` `C` `JavaScript`
-
-### Databases
-
-`MySQL` `MongoDB`
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript&theme=dark"/>
+</p>
 
 ### Web Development
 
-`HTML` `CSS` `JavaScript` `Node.js`
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs&theme=dark"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+</p>
 
 ### IoT & Hardware
 
-`Arduino` `NodeMCU` `Sensors & Automation`
+<p>
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
+</p>
 
 ### Tools
 
-`Git` `GitHub` `VS Code` `Linux` `WAMP` `phpMyAdmin`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
+</p>
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### 🍔 Food Ordering System
+## 🍔 Food Ordering System
 
-CLI-based food ordering application with MySQL persistence, layered architecture, cart management, order processing, and a structured OOP design.
+CLI-based food ordering application built using Python and MySQL.
 
-**Tech:** Python • MySQL • OOP
+### Features
 
-🔗 Repository: https://github.com/satwik88/Food-Ordering-System
+- User management
+- Menu system
+- Cart functionality
+- Order placement
+- MySQL database integration
+- Layered OOP architecture
 
----
-
-### 💻 SR Dev Lab
-
-Personal developer portfolio featuring an interactive user interface, responsive design, Three.js-powered 3D effects, animations, and modern frontend practices.
-
-**Tech:** HTML • CSS • JavaScript • Three.js
-
-🔗 Repository: https://github.com/satwik88/SR_DEV_LAB
-
-🌐 Live Site: https://satwik23.vercel.app
+🔗 Repository:
+https://github.com/satwik88/Food-Ordering-System
 
 ---
 
-### 🐍 Snake Game
+## 🐍 Snake Game
 
-Classic Snake game built using Python and Pygame with score tracking, collision detection, smooth controls, and a structured game loop.
+Classic Snake Game developed using Python and Pygame.
 
-**Tech:** Python • Pygame
+### Features
 
-🔗 Repository: https://github.com/satwik88/Snake
+- Smooth controls
+- Score tracking
+- Collision detection
+- Responsive gameplay
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satwik88\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satwik88\&layout=compact)
+🔗 Repository:
+https://github.com/satwik88/Snake
 
 ---
 
-## 📫 Connect With Me
+## 🌐 SR Dev Lab
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/satwik-raj-35b6a9343/)
+Personal portfolio website showcasing projects, skills, and certifications.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/satwik88)
+### Features
 
-📧 Email: [satwikraj707@gmail.com](mailto:satwikraj707@gmail.com)
+- Three.js animated background
+- Responsive design
+- Interactive UI
+- Dark theme aesthetics
 
-🌐 Portfolio: https://satwik23.vercel.app
+🔗 Live:
+https://satwik23.vercel.app
+
+🔗 Repository:
+https://github.com/satwik88/SR_DEV_LAB
 
 ---
 
-> Building practical software, modern web experiences, and technology-driven solutions one project at a time.
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - React
+  - Machine Learning
+  - Docker
+  - Advanced JavaScript
+
+Building:
+  - Web Applications
+  - Automation Tools
+  - Portfolio Projects
+
+Exploring:
+  - AI & Automation
+  - Backend Development
+  - Cloud Technologies
+
+Open To:
+  - Internships
+  - Collaboration
+  - Open Source Projects
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=satwik88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=satwik88&theme=tokyonight"/>
+
+<br><br>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik88&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=satwik88&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satwik88&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/satwik88/satwik88/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:satwikraj707@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-satwikraj707%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/satwik-raj-35b6a9343/">
+<img src="https://img.shields.io/badge/LinkedIn-Satwik_Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/satwik88">
+<img src="https://img.shields.io/badge/GitHub-satwik88-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://satwik23.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Live_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+Building software one project at a time 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer"/>
+
+</div>
