@@ -205,19 +205,11 @@ Exploring:
 
 ---
 
-# 🔥 Developer Metrics
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satwik88&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satwik88&theme=tokyonight"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satwik88&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satwik88&theme=tokyonight"/>
+<a href="https://github.com/satwik88?tab=achievements">
+  <img src="https://img.shields.io/badge/View_GitHub_Achievements-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
