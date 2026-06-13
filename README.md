@@ -215,11 +215,14 @@ Exploring:
 
 ---
 
-# 📈 Contribution Activity
+# 🏅 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satwik88&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+[![Achievements](https://github-profile-trophy.vercel.app/?username=satwik88&theme=flat&no-frame=true)]()
+
+Visit my achievements:
+https://github.com/satwik88?tab=achievements
 
 </div>
 
