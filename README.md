@@ -205,24 +205,13 @@ Exploring:
 
 ---
 
-<div align="center">
-
-<a href="https://github.com/satwik88?tab=achievements">
-  <img src="https://img.shields.io/badge/View_GitHub_Achievements-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 # 🏅 GitHub Achievements
 
 <div align="center">
 
-[![Achievements](https://github-profile-trophy.vercel.app/?username=satwik88&theme=flat&no-frame=true)]()
-
-Visit my achievements:
-https://github.com/satwik88?tab=achievements
+<a href="https://github.com/satwik88?tab=achievements">
+  <img src="https://img.shields.io/badge/🏆-GitHub%20Achievements-blueviolet?style=for-the-badge"/>
+</a>
 
 </div>
 
