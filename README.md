@@ -97,50 +97,6 @@ Currently exploring:
 
 # 🚀 Featured Projects
 
-## 🍔 Food Ordering System
-
-CLI-based food ordering application built using Python and MySQL.
-
-### Features
-
-* User Authentication
-* Menu Management
-* Cart Management
-* Order Tracking
-* MySQL Persistence
-* Object-Oriented Architecture
-
-**Tech Stack**
-
-`Python` `MySQL` `OOP`
-
-Repository:
-
-https://github.com/satwik88/Food-Ordering-System
-
----
-
-## 🐍 Snake Game
-
-Classic Snake Game built using Python and Pygame.
-
-### Features
-
-* Smooth Controls
-* Score Tracking
-* Collision Detection
-* Responsive Gameplay
-
-**Tech Stack**
-
-`Python` `Pygame`
-
-Repository:
-
-https://github.com/satwik88/Snake
-
----
-
 ## 🌐 SR DEV LAB
 
 Personal Portfolio Website with modern UI and Three.js background effects.
@@ -166,6 +122,53 @@ Repository:
 https://github.com/satwik88/SR_DEV_LAB
 
 ---
+
+## 📰 The Global Grid
+
+A premium international digital newspaper site blending traditional print journalism with modern web technology.
+
+### Features
+
+* Category-Based Sections (World, Business, Technology, AI, Science, Culture, Travel, Opinion)
+* Daily Print-Style Front Page with Article Paging
+* Searchable Archive
+* Bookmarks
+* Downloadable PDF Edition
+
+**Tech Stack**
+
+`Next.js` `React` `Tailwind CSS`
+
+Live Site:
+
+https://the-global-grid.vercel.app/
+
+Repository:
+
+https://github.com/satwik88/The-Global-Grid
+
+---
+
+## 🍔 Food Ordering System
+
+CLI-based food ordering application built using Python and MySQL.
+
+### Features
+
+* User Authentication
+* Menu Management
+* Cart Management
+* Order Tracking
+* MySQL Persistence
+* Object-Oriented Architecture
+
+**Tech Stack**
+
+`Python` `MySQL` `OOP`
+
+Repository:
+
+https://github.com/satwik88/Food-Ordering-System
 
 # 📚 Currently Learning
 
