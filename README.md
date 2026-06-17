@@ -149,6 +149,16 @@ https://github.com/satwik88/The-Global-Grid
 
 ---
 
+### 🚚 Smart Delivery System
+
+Full-stack logistics platform implementing 13 classic DSA algorithms (Dijkstra, Floyd-Warshall, Knapsack, Kruskal/Prim, N-Queens & more) for delivery route optimization, resource allocation, and network topography — with live order tracking and an admin panel.
+
+**Tech:** React · Node.js · Express · MySQL
+
+🔗 [Live Demo](https://smart-delivery-system-beta.vercel.app) · [GitHub Repo](https://github.com/satwik88/Smart-Delivery-System)
+
+---
+
 ## 🍔 Food Ordering System
 
 CLI-based food ordering application built using Python and MySQL.
