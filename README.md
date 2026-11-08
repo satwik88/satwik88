@@ -1,186 +1,194 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=00FF88&center=true&vCenter=true&width=1000&lines=Satwik+Raj;Computer+Science+Student;Python+Developer;IoT+Enthusiast;Web+Developer;Building+Things+That+Actually+Work" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Satwik+Raj;Computer+Science+Student;Python+Developer;IoT+Enthusiast;Web+Developer;Building+Things+That+Actually+Work" />
 
-<br>
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/B.Tech-CSE-blue?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-India-orange?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open_To-Opportunities-success?style=flat-square"/>
-</p>
+<img src="https://img.shields.io/badge/B.Tech-CSE-555555?style=flat-square&labelColor=222222"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-India-555555?style=flat-square&labelColor=222222"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open_To-Opportunities-555555?style=flat-square&labelColor=222222"/>
 
-<p>
-  <a href="https://satwik23.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<br/><br/>
 
-  <a href="https://github.com/satwik88">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://satwik23.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-WEBSITE-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000"/>
+</a>
+&nbsp;
+<a href="https://github.com/satwik88">
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/satwik-raj-35b6a9343/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+</a>
+&nbsp;
+<a href="mailto:raj0.0satwik@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000"/>
+</a>
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<br/><br/>
 
-  <a href="mailto:raj0.0satwik@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=satwik88&style=flat-square&color=blue&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=satwik88&style=flat-square&color=777777&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/user-round.svg" width="19" align="center"/> &nbsp; ABOUT ME
 
 I'm **Satwik Raj**, a Computer Science Engineering student passionate about building practical software and hardware solutions.
 
 I enjoy working across multiple domains:
 
-* Python Development
-* Web Development
-* IoT Systems
-* Database Design
-* Automation
-* Open Source
+- Python Development
+- Web Development
+- IoT Systems
+- Database Design
+- Automation
+- Open Source
 
-Currently exploring:
+**Currently exploring:**
 
-* Artificial Intelligence
-* Machine Learning
-* Full Stack Development
-* System Design
-* DevOps
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Development
+- System Design
+- DevOps
 
 ---
 
-# ⚡ Tech Stack
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/code-2.svg" width="19" align="center"/> &nbsp; TECHNICAL SKILLS
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript&theme=dark"/>
 </p>
 
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,nodejs&theme=dark"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 </p>
 
 ### IoT & Hardware
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino" />
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
 </p>
 
-### Tools
+### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/folder-code.svg" width="19" align="center"/> &nbsp; FEATURED PROJECTS
 
-## 🌐 SR DEV LAB
+### 01 / SR DEV LAB
 
-Personal Portfolio Website with modern UI and Three.js background effects.
+Personal portfolio website featuring a modern interface and Three.js background effects.
 
-### Features
+**Features**
 
-* Interactive UI
-* Three.js Background
-* Mobile Responsive
-* Dark Theme
-* Project Showcase
+- Interactive user interface
+- Three.js background
+- Responsive design
+- Dark theme
+- Project showcase
 
-**Tech Stack**
+**Technology Stack**
 
 `HTML` `CSS` `JavaScript` `Three.js`
 
-Live Site:
+**Links**
 
-https://satwik23.vercel.app/
-
-Repository:
-
-https://github.com/satwik88/SR_DEV_LAB
+[Live Website](https://satwik23.vercel.app/) · [Source Code](https://github.com/satwik88/SR_DEV_LAB)
 
 ---
 
-## 📰 The Global Grid
+### 02 / THE GLOBAL GRID
 
-A premium international digital newspaper site blending traditional print journalism with modern web technology.
+A premium international digital newspaper blending traditional print journalism with modern web technology.
 
-### Features
+**Features**
 
-* Category-Based Sections (World, Business, Technology, AI, Science, Culture, Travel, Opinion)
-* Daily Print-Style Front Page with Article Paging
-* Searchable Archive
-* Bookmarks
-* Downloadable PDF Edition
+- Category-based sections: World, Business, Technology, AI, Science, Culture, Travel and Opinion
+- Daily print-style front page
+- Article pagination
+- Searchable archive
+- Bookmarks
+- Downloadable PDF edition
 
-**Tech Stack**
+**Technology Stack**
 
 `Next.js` `React` `Tailwind CSS`
 
-Live Site:
+**Links**
 
-https://the-global-grid.vercel.app/
-
-Repository:
-
-https://github.com/satwik88/The-Global-Grid
+[Live Website](https://the-global-grid.vercel.app/) · [Source Code](https://github.com/satwik88/The-Global-Grid)
 
 ---
 
-### 🚚 Smart Delivery System
+### 03 / SMART DELIVERY SYSTEM
 
-Full-stack logistics platform implementing 13 classic DSA algorithms (Dijkstra, Floyd-Warshall, Knapsack, Kruskal/Prim, N-Queens & more) for delivery route optimization, resource allocation, and network topography — with live order tracking and an admin panel.
+Full-stack logistics platform implementing classic DSA algorithms for delivery route optimization, resource allocation and network topology.
 
-**Tech:** React · Node.js · Express · MySQL
+**Features**
 
-🔗 [Live Demo](https://smart-delivery-system-beta.vercel.app) · [GitHub Repo](https://github.com/satwik88/Smart-Delivery-System)
+- Dijkstra and Floyd-Warshall algorithms
+- Knapsack optimization
+- Kruskal and Prim algorithms
+- N-Queens
+- Live order tracking
+- Administrative dashboard
+
+**Technology Stack**
+
+`React` `Node.js` `Express` `PostgreSQL` `Prisma`
+
+**Links**
+
+[Live Demo](https://smart-delivery-system-beta.vercel.app/) · [Source Code](https://github.com/satwik88/Smart-Delivery-System)
 
 ---
 
-## 🍔 Food Ordering System
+### 04 / FOOD ORDERING SYSTEM
 
-CLI-based food ordering application built using Python and MySQL.
+CLI-based food ordering application developed using Python and MySQL.
 
-### Features
+**Features**
 
-* User Authentication
-* Menu Management
-* Cart Management
-* Order Tracking
-* MySQL Persistence
-* Object-Oriented Architecture
+- User authentication
+- Menu management
+- Cart management
+- Order tracking
+- MySQL persistence
+- Object-oriented architecture
 
-**Tech Stack**
+**Technology Stack**
 
 `Python` `MySQL` `OOP`
 
-Repository:
+**Links**
 
-https://github.com/satwik88/Food-Ordering-System
+[Source Code](https://github.com/satwik88/Food-Ordering-System)
 
-# 📚 Currently Learning
+---
+
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/book-open.svg" width="19" align="center"/> &nbsp; CURRENTLY LEARNING
 
 ```yaml
 Learning:
@@ -202,68 +210,86 @@ Exploring:
 
 ---
 
-# 📊 GitHub Analytics
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/chart-no-axes-combined.svg" width="19" align="center"/> &nbsp; GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=satwik88&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=satwik88&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&count_private=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=satwik88&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=satwik88&theme=transparent&hide_border=true&ring=FFFFFF&fire=AAAAAA&currStreakLabel=FFFFFF&sideLabels=999999&dates=777777"/>
 
-<br><br>
+<br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik88&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik88&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=999999"/>
 
 </div>
 
 ---
 
-# 🏅 GitHub Achievements
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/award.svg" width="19" align="center"/> &nbsp; GITHUB ACHIEVEMENTS
 
 <div align="center">
 
 <a href="https://github.com/satwik88?tab=achievements">
-  <img src="https://img.shields.io/badge/🏆-GitHub%20Achievements-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GITHUB-ACHIEVEMENTS-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/activity.svg" width="19" align="center"/> &nbsp; CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/satwik88/satwik88/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/satwik88/satwik88/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/fish.svg" width="19" align="center"/> &nbsp; GITHUB KOI
+
+<div align="center">
+
+<img src="koi/koi.gif" width="256" alt="Satwik's GitHub Koi"/>
+
+<br/>
+
+*My GitHub activity, brought to life.*
+
+</div>
+
+---
+
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/at-sign.svg" width="19" align="center"/> &nbsp; CONNECT
 
 <div align="center">
 
 <a href="mailto:raj0.0satwik@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-raj0.0satwik@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-CONTACT-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/satwik88">
-<img src="https://img.shields.io/badge/GitHub-satwik88-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-SATWIK88-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
-
+&nbsp;
 <a href="https://satwik23.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Live_Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/satwik-raj-35b6a9343/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br>
+**BUILDING THINGS THAT ACTUALLY WORK.**
 
-<div align="center">
+*Driven by code. Defined by curiosity.*
 
-### ⭐ Building cool things with code and curiosity.
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
