@@ -186,6 +186,10 @@ An Android expense tracker for my own daily use. Type an expense in plain words 
 
 `React` `Vite` `Capacitor` `Android`
 
+**Links**
+
+[Live App](https://github.com/satwik88/Expense_Tracker/releases) · [Source Code](https://github.com/satwik88/Expense_Tracker)
+
 ---
 
 ### 06 / AEROWATCH
