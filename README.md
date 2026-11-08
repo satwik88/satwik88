@@ -61,7 +61,7 @@ I enjoy working across multiple domains:
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/code-2.svg" width="19" align="center"/> &nbsp; TECHNICAL SKILLS
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/code.svg" width="19" align="center"/> &nbsp; TECHNICAL SKILLS
 
 ### Languages
 
