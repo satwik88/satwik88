@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header" width="100%"/>
 
@@ -66,19 +66,19 @@ I enjoy working across multiple domains:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,ts&theme=dark"/>
 </p>
 
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,nodejs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,react,nextjs,tailwind,fastapi&theme=dark"/>
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma&theme=dark"/>
 </p>
 
 ### IoT & Hardware
@@ -90,51 +90,29 @@ I enjoy working across multiple domains:
 ### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark"/>
 </p>
 
 ---
 
 ## <img src="https://cdn.jsdelivr.net/npm/lucide-static@0.468.0/icons/folder-code.svg" width="19" align="center"/> &nbsp; FEATURED PROJECTS
 
-### 01 / SR DEV LAB
+### 01 / THE GLOBAL GRID
 
-Personal portfolio website featuring a modern interface and Three.js background effects.
-
-**Features**
-
-- Interactive user interface
-- Three.js background
-- Responsive design
-- Dark theme
-- Project showcase
-
-**Technology Stack**
-
-`HTML` `CSS` `JavaScript` `Three.js`
-
-**Links**
-
-[Live Website](https://satwik23.vercel.app/) · [Source Code](https://github.com/satwik88/SR_DEV_LAB)
-
----
-
-### 02 / THE GLOBAL GRID
-
-A premium international digital newspaper blending traditional print journalism with modern web technology.
+A digital newspaper that follows the layout of a print edition, with a daily front page and a searchable archive. Readers can sign in with email or Google and save articles to read later.
 
 **Features**
 
-- Category-based sections: World, Business, Technology, AI, Science, Culture, Travel and Opinion
-- Daily print-style front page
-- Article pagination
-- Searchable archive
-- Bookmarks
+- Sections for World, Business, Technology, AI, Science, Culture, Travel and Opinion
+- Article pagination and a searchable archive
+- Email and Google sign-in
+- Saved articles and bookmarks
+- Profile with avatar, nickname and interests
 - Downloadable PDF edition
 
 **Technology Stack**
 
-`Next.js` `React` `Tailwind CSS`
+`Next.js` `React` `Tailwind CSS` `Prisma` `PostgreSQL` `NextAuth`
 
 **Links**
 
@@ -142,18 +120,18 @@ A premium international digital newspaper blending traditional print journalism 
 
 ---
 
-### 03 / SMART DELIVERY SYSTEM
+### 02 / SMART DELIVERY SYSTEM
 
-Full-stack logistics platform implementing classic DSA algorithms for delivery route optimization, resource allocation and network topology.
+A logistics platform that uses classic DSA algorithms for delivery routing, resource allocation and network layout.
 
 **Features**
 
-- Dijkstra and Floyd-Warshall algorithms
-- Knapsack optimization
-- Kruskal and Prim algorithms
+- Dijkstra and Floyd-Warshall for routes
+- Knapsack for load optimization
+- Kruskal and Prim for network topology
 - N-Queens
 - Live order tracking
-- Administrative dashboard
+- Admin dashboard
 
 **Technology Stack**
 
@@ -165,18 +143,90 @@ Full-stack logistics platform implementing classic DSA algorithms for delivery r
 
 ---
 
-### 04 / FOOD ORDERING SYSTEM
+### 03 / INSUSENSE
 
-CLI-based food ordering application developed using Python and MySQL.
+A team project that predicts how likely a meal is to cause a post-meal glucose spike. You enter carbs, sugar, fiber, protein and fat, and it returns a Low, Medium or High risk, a 0 to 120 minute response curve and diet suggestions. I built the Streamlit interface, the prediction pipeline and the charts. For educational use only.
+
+**Technology Stack**
+
+`Python` `Streamlit` `scikit-learn` `Docker` `Render`
+
+**Links**
+
+[Live Demo](https://insusense.onrender.com/) · [Source Code](https://github.com/samm7dx/insusense)
+
+---
+
+### 04 / GRAPHISENSE
+
+A computer vision mini project that analyzes handwriting to support dysgraphia screening. It runs two pipelines, a Random Forest on extracted handwriting features and a ResNet-18 CNN, and is evaluated on the Mendeley handwriting dataset. A Streamlit app wraps both.
+
+**Technology Stack**
+
+`Python` `OpenCV` `scikit-learn` `PyTorch` `Streamlit`
+
+**Status**
+
+In progress
+
+---
+
+### 05 / MONEY TRACKER
+
+An Android expense tracker for my own daily use. Type an expense in plain words and it picks the category. Everything is stored on the phone, with no account and no server.
 
 **Features**
 
-- User authentication
+- Balance card with income, spent and net totals
+- Category pie chart and day, week and month stats
+- PIN and fingerprint lock
+- JSON export and import for backups
+
+**Technology Stack**
+
+`React` `Vite` `Capacitor` `Android`
+
+---
+
+### 06 / AEROWATCH
+
+An air quality dashboard built for my EVS assignment.
+
+**Technology Stack**
+
+`Next.js`
+
+**Links**
+
+[Live Website](https://aerowatch.vercel.app/) · [Source Code](https://github.com/satwik88/Aerowatch)
+
+---
+
+### 07 / SR DEV LAB
+
+My portfolio website, with a Three.js background and a dark theme.
+
+**Technology Stack**
+
+`HTML` `CSS` `JavaScript` `Three.js`
+
+**Links**
+
+[Live Website](https://satwik23.vercel.app/) · [Source Code](https://github.com/satwik88/SR_DEV_LAB)
+
+---
+
+### 08 / FOOD ORDERING SYSTEM
+
+A command-line food ordering app written in Python with MySQL.
+
+**Features**
+
+- User login
 - Menu management
-- Cart management
-- Order tracking
-- MySQL persistence
-- Object-oriented architecture
+- Cart and order tracking
+- MySQL storage
+- Object-oriented design
 
 **Technology Stack**
 
