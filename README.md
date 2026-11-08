@@ -268,13 +268,13 @@ Exploring:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=satwik88&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&count_private=true"/>
+<img height="170" src="https://github-readme-stats-rho-ruddy-87.vercel.app/api?username=satwik88&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=satwik88&theme=transparent&hide_border=true&ring=FFFFFF&fire=AAAAAA&currStreakLabel=FFFFFF&sideLabels=999999&dates=777777"/>
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik88&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=999999"/>
+<img height="170" src="https://github-readme-stats-rho-ruddy-87.vercel.app/api/top-langs/?username=satwik88&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=999999"/>
 
 </div>
 
